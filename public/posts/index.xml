@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Nov 2024 14:03:32 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perfect Day</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 23 Nov 2024 14:03:32 -0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../2024-11-23-perfect-day.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Burlingame whispers in autumn&amp;rsquo;s soft rain,&#xA;Leaves swirl like dancers, a golden refrain.&#xA;The air sings of coffee, of laughter, of bread,&#xA;Life feels a movie, each scene joyfully led.&lt;/p&gt;&#xA;&lt;p&gt;With Camille, Elias, and Nebo in stride,&#xA;A morning of sun, where the heart opens wide.&#xA;Gratitude hums in the rustle of trees,&#xA;This is the multiverse I&amp;rsquo;d search on my knees.&lt;/p&gt;&#xA;&lt;p&gt;Dreams intertwine with the clarity near,&#xA;Bliss in the slowness, the moments sincere.&#xA;Strength in the stillness, energy anew,&#xA;A perfect day, under skies crisp and blue.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
